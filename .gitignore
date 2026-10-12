@@ -1,0 +1,7 @@
+# Versora Project Ignores
+node_modules/
+.DS_Store
+Thumbs.db
+.env
+dist/
+build/
